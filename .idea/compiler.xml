@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="consumer.admin.main" target="11" />
+      <module name="consumer.admin.test" target="11" />
+      <module name="untitled" target="11" />
+      <module name="untitled.main" target="11" />
+      <module name="untitled.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
